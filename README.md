@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Sunny Ojo</h1>
+<h1 align="center">Hi there 👋, <br> I'm Sunny Ojo</h1>
 <p align="center">
   🧠 Backend PHP/Laravel Developer | 💼 4+ Years Experience | 🔀 React/Next.js Friendly | 🌍 Lagos, Nigeria
 </p>
@@ -32,7 +32,7 @@ My passion lies in:
 **Testing:** `TDD`, `PHPUnit`, `PestPHP`, `Cypress`  
 **Frontend (Experience):** `React.js`, `Next.js`, `Tailwind CSS`  
 **Database:** `MySQL`, `MongoDB`, `NoSQL`  
-**Tools & DevOps:** `Git`, `GitHub`, `DigitalOcean`, `Stripe`, `Paystack`
+**Tools & DevOps:** `Git`, `GitHub`, `DigitalOcean`, 
 
 ---
 
@@ -52,13 +52,7 @@ My passion lies in:
 - Applied KISS and DRY principles for efficient MySQL handling
 - Webhooks + Stripe for a full end-to-end checkout flow
 
-#### ⚙️ [Admin & Frontend Dashboards]
-> Laravel + Inertia + React
-
-- Built internal dashboards with authentication, roles, and API usage
-- Used Inertia.js to blend Laravel backend and React frontend smoothly
-- Secured all routes with Laravel Sanctum
-
+ 
 ---
 
 ### 💼 Experience
@@ -70,7 +64,7 @@ My passion lies in:
 - Mentored junior devs on Laravel and best practices  
 
 **Fullstack Developer** – *Credpal Technologies*  
-*Sep 2022 – Dec 2023 | Yaba, Lagos*  
+*Sep 2022 – Dec 2024 | Yaba, Lagos*  
 - Created 4 fintech savings products with flexible fund locking  
 - Delivered secure, optimized endpoints under production pressure  
 
@@ -82,9 +76,9 @@ My passion lies in:
 
 ### 🌱 Currently Learning
 
-- Laravel Vapor (Serverless Laravel)
+- Python
 - Advanced CI/CD pipelines (GitHub Actions)
-- Event-driven architecture and message queues
+- Event-driven architecture
 
 ---
 

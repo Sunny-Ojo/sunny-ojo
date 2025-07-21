@@ -66,7 +66,7 @@ My passion lies in:
 **Fullstack Developer** – *Credpal Technologies*  
 *Sep 2022 – Dec 2024 | Yaba, Lagos*  
 - Created 4 fintech savings products with flexible fund locking  
-- Delivered secure, optimized endpoints under production pressure  
+- Delivered secure and optimized endpoints
 
 **Volunteer Instructor** – *Teens Tech Club*  
 - Taught the basics of HTML, CSS, and JavaScript  

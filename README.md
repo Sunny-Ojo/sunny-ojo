@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, <br> I'm Sunny Ojo</h1>
 <p align="center">
-  🧠 Backend PHP/Laravel Developer | 💼 4+ Years Experience | 🔀 React/Next.js Friendly | 🌍 Lagos, Nigeria
+  🧠Fullstack Backend PHP/Laravel Developer | 💼 7+ Years Experience | 🔀 React/Next.js | 🌍 Lagos, Nigeria
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Backend-focused Laravel Developer** with over 4 years of experience building robust, scalable, and secure web applications using **PHP**, **Laravel**, and modern architectural principles like **SOLID**, **TDD**, and **Design Patterns**.
+I'm a **Backend-focused Laravel Developer** with over 7 years of experience building robust, scalable, and secure web applications using **PHP**, **Laravel**, and modern architectural principles like **SOLID**, **TDD**, and **Design Patterns**.
 
 While backend is my core strength, I also bring hands-on experience in **React.js** and **Next.js** — perfect for fullstack integrations when needed.
 
